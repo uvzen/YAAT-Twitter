@@ -20,4 +20,4 @@ I'm releasing a patched Twitter here that doesn't require root and the LSPosed +
 - feature switch
 or see [here](https://github.com/Dr-TSNG/TwiFucker/blob/master/FEATURES.md)
 
-# [Download](https://github.com/uvzen/LSPatched-Twitter/releases)
+## [Download](https://github.com/uvzen/LSPatched-Twitter/releases)
