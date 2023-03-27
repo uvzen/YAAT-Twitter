@@ -1,8 +1,8 @@
 # LSPatched-Twitter
 I'm releasing a patched Twitter here that doesn't require root (LSPosed + TwiFucker module)
 
-[TwiFucker source](https://github.com/Dr-TSNG/TwiFucker) 
-[LSPatch source](https://github.com/LSPosed/LSPatch)
+[TwiFucker] source(https://github.com/Dr-TSNG/TwiFucker) 
+[LSPatch] source(https://github.com/LSPosed/LSPatch)
 
 ## Patched Twitter Features (or see [here](https://github.com/uvzen/LSPatched-Twitter/blob/main/FEATURES.md))
 - remove promoted content
