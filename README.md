@@ -1,5 +1,6 @@
 # LSPatched-Twitter
 I'm releasing a patched Twitter here that doesn't require root (LSPosed + TwiFucker module)
+
 Telegram channel: https://t.me/LSPatchedTwitter
 
 TwiFucker source [here](https://github.com/Dr-TSNG/TwiFucker) 
