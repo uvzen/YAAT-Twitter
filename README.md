@@ -3,7 +3,7 @@ I'm releasing a patched Twitter here that doesn't require root and the LSPosed +
 
 [TwiFucker module source](https://github.com/Dr-TSNG/TwiFucker) 
 
-## Patched Twitter Features (or see [here]((https://github.com/Dr-TSNG/TwiFucker/blob/master/FEATURES.md))
+## Patched Twitter Features (or see [here](https://github.com/Dr-TSNG/TwiFucker/blob/master/FEATURES.md))
 - remove promoted content
 - remove promoted users
 - remove promoted trends
