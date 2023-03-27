@@ -19,4 +19,6 @@ I'm releasing a patched Twitter here that doesn't require root and the LSPosed +
 - remove video carousel
 - feature switch
 
+### Additional Twitter settings:
+- Open Twitter app -> Settings and privacy -> Additional resources -> Tap on Twitter version
 ## Download [here](https://github.com/uvzen/LSPatched-Twitter/releases)
