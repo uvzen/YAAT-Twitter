@@ -20,5 +20,5 @@ I'm releasing a patched Twitter here that doesn't require root (LSPosed + TwiFuc
 - feature switch
 
 ### Additional patched Twitter settings:
-- Open Twitter app -> Settings and privacy -> Additional resources -> Tap on Twitter version
+- Open Twitter app -> Tap on your avatar -> Settings & Support -> Settings and privacy -> Additional resources -> Tap on Twitter version
 ## Download [here](https://github.com/uvzen/LSPatched-Twitter/releases)
