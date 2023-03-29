@@ -22,6 +22,7 @@ LSPatch source [here](https://github.com/LSPosed/LSPatch)
 - disable Tweet Detail Related Tweets
 - remove video carousel
 - feature switch
+- disable banner view
 
 ### Additional patched Twitter settings:
 - Open Twitter app -> Tap on your avatar -> Settings & Support -> Settings and privacy -> Additional resources -> Tap on Twitter version
