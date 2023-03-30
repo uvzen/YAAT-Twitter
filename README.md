@@ -24,10 +24,7 @@ LSPatch source [here](https://github.com/LSPosed/LSPatch)
 - feature switch
 - disable banner view
 
-### Additional patched Twitter settings:
+### 2 ways to get additional Twitter settings:
 - Long tap Twitter logo at top of the Twitter home screen 
-
-```OR```
-
 - Open Twitter app -> Tap on your avatar -> Settings & Support -> Settings and privacy -> Additional resources -> Tap on Twitter version
 ## Download [here](https://github.com/uvzen/LSPatched-Twitter/releases)
