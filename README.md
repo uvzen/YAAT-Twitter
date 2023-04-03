@@ -1,5 +1,5 @@
 # LSPatched-Twitter
-It's a patched Twitter that doesn't require root (LSPosed + TwiFucker module) to get rid of ads and have lots of extra features! This application will receive a lot of updates (maybe even daily), but it depends on the update frequency of the TwiFucker module.
+It's a patched Twitter that doesn't require root (LSPosed + TwiFucker module) to get rid of ads and have lots of extra features! This app will be updated frequently, but it depends on how often TwiFucker module will be updated.
 
 Telegram channel: https://t.me/LSPatchedTwitter
 
