@@ -7,7 +7,7 @@ TwiFucker source [here](https://github.com/Dr-TSNG/TwiFucker)
 
 LSPatch source [here](https://github.com/LSPosed/LSPatch)
 
-## Patched Twitter Features (or see [here](https://github.com/uvzen/LSPatched-Twitter/blob/main/FEATURES.md))
+## Patched Twitter Features (or see [here](https://github.com/Dr-TSNG/TwiFucker/blob/master/FEATURES.md))
 - remove promoted content
 - remove promoted users
 - remove promoted trends
