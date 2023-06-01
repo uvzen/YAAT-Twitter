@@ -6,9 +6,8 @@ Telegram channel: https://t.me/LSPatchedTwitter
 TwiFucker source [here](https://github.com/Dr-TSNG/TwiFucker) 
 
 LSPatch source [here](https://github.com/LSPosed/LSPatch)
-
 <details>
-   <summary><h2>✨ Features</h2></summary>
+   <summary><h2>Features</h2></summary>
 
 <div align="center">
     
