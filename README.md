@@ -9,7 +9,7 @@ LSPatch source [here](https://github.com/LSPosed/LSPatch)
 
 ## Download [here](https://t.me/LSPatchedTwitter)
 <details>
-   <summary><h2>Features</h2></summary>
+   <summary><h2>✨ Features</h2></summary>
 
 <div align="center">
     
