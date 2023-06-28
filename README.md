@@ -63,4 +63,4 @@ Force enable/disable Twitter experimental feature.
 ### 2 ways to get additional Twitter settings:
 - Long tap Twitter logo at top of the Twitter home screen 
 - Open Twitter app -> Tap on your avatar -> Settings & Support -> Settings and privacy -> Additional resources -> Tap on Twitter version
-## Download [here](https://github.com/uvzen/LSPatched-Twitter/releases)
+## Download [here](https://t.me/LSPatchedTwitter)
