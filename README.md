@@ -6,6 +6,8 @@ Releases are on Telegram channel: https://t.me/LSPatchedTwitter
 TwiFucker source [here](https://github.com/Dr-TSNG/TwiFucker) 
 
 LSPatch source [here](https://github.com/LSPosed/LSPatch)
+
+## Download [here](https://t.me/LSPatchedTwitter)
 <details>
    <summary><h2>Features</h2></summary>
 
@@ -63,4 +65,3 @@ Force enable/disable Twitter experimental feature.
 ### 2 ways to get additional Twitter settings:
 - Long tap Twitter logo at top of the Twitter home screen 
 - Open Twitter app -> Tap on your avatar -> Settings & Support -> Settings and privacy -> Additional resources -> Tap on Twitter version
-## Download [here](https://t.me/LSPatchedTwitter)
