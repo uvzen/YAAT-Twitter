@@ -1,13 +1,13 @@
 # YAAT-Twitter
 It's a patched Twitter that doesn't require root (LSPosed + TwiFucker module) to get rid of ads and have lots of extra features! This app will be updated frequently, but it depends on how often TwiFucker module will be updated.
 
-Releases are on Telegram channel: [(https://t.me/YAAT_Twitter)]
+Releases are on Telegram channel: (https://t.me/YAAT_Twitter)
 
 TwiFucker source [here](https://github.com/Dr-TSNG/TwiFucker) 
 
 LSPatch source [here](https://github.com/LSPosed/LSPatch)
 
-## Download [here](https://t.me/YAAT_Twitter)]
+## Download [here](https://t.me/YAAT_Twitter)
 <details>
    <summary><h2>✨ Features</h2></summary>
 
